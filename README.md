@@ -3,7 +3,7 @@
 📫 **How to reach me**: [marciorodrigo2@gmail.com](mailto:marciorodrigo2@gmail.com)
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/)
+[LinkedIn]([https://www.linkedin.com](https://github.com/MarcioMiguel22)/) 
 
 ---
 
