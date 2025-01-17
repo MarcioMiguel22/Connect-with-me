@@ -3,8 +3,6 @@
 
 📫 **How to reach me**: [marciorodrigo2@gmail.com]
 
-### Connect with me
-[LinkedIn]([https://www.linkedin.com](https://github.com/MarcioMiguel22)/) 
 
 ---
 
