@@ -1,7 +1,6 @@
-# Hi 👋, I'm Márcio Miguel 
-<h1 align="center">Hi 👋, I'm Márcio Miguel</h1>
-📫 **How to reach me**: [marciorodrigo2@gmail.com](mailto:marciorodrigo2@gmail.com)
 
+<h1 align="center">Hi 👋, I'm Márcio Miguel</h1>
+📫 **How to reach me**: [marciorodrigo2@gmail.com]
 ### Connect with me
 [LinkedIn]([https://www.linkedin.com](https://github.com/MarcioMiguel22)/) 
 
